@@ -1,0 +1,14 @@
+C:\Users\venta\source\repos\appWord\appWord\bin\Debug\appWord.exe.config
+C:\Users\venta\source\repos\appWord\appWord\bin\Debug\appWord.exe
+C:\Users\venta\source\repos\appWord\appWord\bin\Debug\appWord.pdb
+C:\Users\venta\source\repos\appWord\appWord\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\venta\source\repos\appWord\appWord\bin\Debug\System.IO.Packaging.dll
+C:\Users\venta\source\repos\appWord\appWord\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\venta\source\repos\appWord\appWord\obj\Debug\appWord.csproj.AssemblyReference.cache
+C:\Users\venta\source\repos\appWord\appWord\obj\Debug\appWord.Form1.resources
+C:\Users\venta\source\repos\appWord\appWord\obj\Debug\appWord.Properties.Resources.resources
+C:\Users\venta\source\repos\appWord\appWord\obj\Debug\appWord.csproj.GenerateResource.cache
+C:\Users\venta\source\repos\appWord\appWord\obj\Debug\appWord.csproj.CoreCompileInputs.cache
+C:\Users\venta\source\repos\appWord\appWord\obj\Debug\appWord.csproj.CopyComplete
+C:\Users\venta\source\repos\appWord\appWord\obj\Debug\appWord.exe
+C:\Users\venta\source\repos\appWord\appWord\obj\Debug\appWord.pdb
